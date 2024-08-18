@@ -3,7 +3,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aparna+Srivastava!;"/>
 </h1>
-<h3 align="center">A passionate HR Analytics professionals from Germany </h3>
+<h3 align="center"> A passionate HR Analytics professionals from Germany </h3>
+🎯I'm an HR professional with a global perspective and a strong passion for technology 👨‍💻. As a People Analyst, I bridge the gap between human resources and data analytics, using insights to drive better decisions and foster meaningful connections. My curiosity for new technology fuels my drive to explore innovative solutions in people management, making the HR industry smoother and more efficient.
+
+- 🔧 I'm particularly passionate about integrating AI and technology into HR processes, paving the way for a new era of intelligent and streamlined workforce management. Currently, I'm honing my skills in Python, SQL, and Tableau, diving deep into projects that enhance my expertise in data analysis and visualization.
+
+- I thrive on communication and enjoy building connections with like-minded individuals. Let's exchange ideas, share our knowledge, and explore the ever-evolving world of technology together!
+
 
 </div>
  
