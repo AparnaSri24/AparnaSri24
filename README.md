@@ -22,18 +22,7 @@
   </a>
   <a href="https://github.com/AparnaSri24">
   </a>
-</div>
 
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages and Tools I use ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,github" />
-    <img src="https://skillicons.dev/icons?i=python"/>
-    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
-<br>
 </div>
 
 <br/>
@@ -56,12 +45,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="left">
   <h2>🐍 My Contributions 🐍</h2>
 <img alt='contribution' src="https://raw.githubusercontent.com/AparnaSri24/AparnaSri24/00ccd46ecb6f4aa074c18d933c742bc47db60869/contributions.svg"></img>
-  <br/><br/><br/>
+ 
 </div>
-
+<br/>
+<hr/>
+<h2 align="center">⚒️ Languages and Tools I use ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,github" />
+    <img src="https://skillicons.dev/icons?i=python"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+<br>
 <hr/>
 
 ## 📊 GitHub Stats
