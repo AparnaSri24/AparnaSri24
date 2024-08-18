@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 <img alt='contribution' src="https://raw.githubusercontent.com/AparnaSri24/AparnaSri24/00ccd46ecb6f4aa074c18d933c742bc47db60869/contributions.svg"></img>
  
