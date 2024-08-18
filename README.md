@@ -19,6 +19,19 @@
 </div>
 
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,github,r" />
+    <img src="https://skillicons.dev/icons?i=python,TableauPublicX=" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
 <!--
 
 **AparnaSri24/AparnaSri24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
