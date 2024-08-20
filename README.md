@@ -10,7 +10,6 @@
 
 - I thrive on communication and enjoy building connections with like-minded individuals. Let's exchange ideas, share our knowledge, and explore the ever-evolving world of technology together!
 
-
 </div>
  
 <div align="center"> 
